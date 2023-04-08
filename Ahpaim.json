@@ -1,19 +1,27 @@
 {
-//เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
+// version for updating, if there is an update, need to change more numbers than before
 "Version":"1.1",
-//ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/bbbbbb91/vpn/blob/main/san.zip?raw=true" ,
+//link for server update
+"Url":"https://github.com/TinSoeOo077/TinSoeOo/blob/main/THVPN.zip?raw=true" ,
 "Changelog":"
-မ ဂင်္လာပါ 
- TRUE & DTAC 5ဖိုင်ထည့်ပေးထာတယ်
- ဖိုင်ကုန်ရက်‌ေတွးပါ
- ဖိုင်ကုန်နေ့
+Latest update 01/11/2022
+TRUE No Pro
+DTAC No Pro
+Edit the TRUE file.
+Edit DTAC files
+Add function to page load
 ",
-//ไม่ต้องยุ่งด้านล่าง
+ 
+ 
+ 
+ 
+ 
+ 
+// don't mess with the bottom
 "latestVersion": "1.0.0",
 "latestVersionCode": "1",
 "url": "",
  "releaseNotes": [
-  "-Demo"
-    ]
-    }
+ "-Demo"
+  ]
+}

@@ -1,120 +1,32 @@
 {
-
-   "files": [    
-
-
-
-
-
-
-
-{
-
-         "name": "TH-VIP-DTAC-01",
-
-         "url": "https://raw.githubusercontent.com/bbbbbb91/vpn/main/Thailand_Core_vip.ovpn"
-
-      }
-
-,
-
-{
-
-         "name": "TH-VIP-DTAC-02",
-
-         "url": "https://raw.githubusercontent.com/bbbbbb91/vpn/main/Singapore_Watitut_1.ovpn"
-
-      }   
-
-,
-
-{
-
-         "name": "TH-VIP-DTAC-03",
-
-         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC.ovpn"
-
-      }   
-
-,
-
-{
-
-         "name": "TH-VIP-DTAC-04",
-
-         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC.ovpn"
-
-      }   
-
-,
-
-{
-
-         "name": "TH-VIP-DTAC-05",
-
-         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC.ovpn"
-
-      }   
-
-,
-
-{
-
-         "name": "TH-VIP-True-01",
-
-         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC.ovpn"
-
-      }
-
-,
-
-{
-
-         "name": "TH-VIP-True-02",
-
-         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC.ovpn"
-
-      }
-
-,   
-
-{
-
-         "name": "TH-VIP-True-03",
-
-         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC.ovpn"
-
-      }   
-
- ,
-
-{
-
-         "name": "TH-VIP-True-04",
-
-         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC.ovpn"
-
-      }   
-
- ,            
-
- {
-
-         "name": "TH-VIP-True-05",
-
-         "url": "https://raw.githubusercontent.com/TinSoeOo077/TinSoeOo/main/TH-TRUE-DTAC.ovpn"
-
-      }  
-
-      
-
-     
-
-   ],
-
-"message":"
-မြန်မာပြည့်သာအာလုံးကြိုဆိုပါတယ်
-\n\nFb: KoSanNaing",
-"title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":1
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"11.12",
+//link for server update
+"Url":"https://github.com/bbbbbb91/vpn/raw/main/myo.zip" ,
+"Changelog":"
+မဂင်္လာပါဗျာကျွန်တော်APKသုံးနေသူများအပ်ဒိတ်လုပ်ပေကျပါဖိုင်အသစ်ထည့်ပေထားတယ်
+အပ်ဒိတ်တင်နေ့ 19/06/2023
+< TRUE No Pro 9>ဖိုင်
+< DTAC No Pro 9>ဖိုင်ထည့်ပေးထားတယ်
+ကျနော်APKသုံးနေတဲ့သူငယ်ချင်များ
+2023မှာ အလုပ်အကိုင်ဆင်ပြေကြပါစေ့
+ဖိုင်မချိတ်တဲ့နေ့အပ်ဒိတ်ပြန်လုပ်ပေးမယ်
+ <ထိုင်း.ခေတ္တရောက်><ကိုဆန်းနိုင်>
+ ➤ ─ 🌺 🌀SanNaing 🌀 ➤ ─ 🌺 ─ ➤
+ ❀ 🍀 🌺#ฟ๐ฟ___ไ๐vehaiy 🌺 🍀 ❀ 
+ ❀ 🍀 🌺#ฟ๐ฟ___ไ๐vehaiy 🌺 🍀
+",
+ 
+ 
+ 
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
 }
